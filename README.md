@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **gabrieltanod/gabrieltanod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Gabriel 👋
+## Hi, I'm Gabriel 👋
 I’m a Computer Science student passionate about AI and app development.
 
 ## 🔧 Projects

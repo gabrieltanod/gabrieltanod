@@ -20,6 +20,15 @@ I’m a Computer Science student passionate about AI and app development.
 ## 🔧 Projects
 - [Foozy 🍜](https://github.com/gabrieltanod/Foozy) – A restaurant listing app in SwiftUI
 - [Bebas 🤚](https://github.com/gabrieltanod/Bebas) - An app that provides a simpler way to learn sign language
+- 
+## 🛠️ Languages and Tools
+
+![JavaScript, Python, Java, HTML, CSS, git, github](https://skillicons.dev/icons?i=js,python,java,html,css,git,github,swift)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltanod&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltanod&layout=compact&theme=radical)
 
 ## 🧠 Skills
 - Languages: Python, Swift, JavaScript

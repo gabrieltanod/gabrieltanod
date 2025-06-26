@@ -23,7 +23,7 @@ I’m a Computer Science student passionate about AI and app development.
 - 
 ## 🛠️ Languages and Tools
 
-![JavaScript, Python, Java, HTML, CSS, git, github](https://skillicons.dev/icons?i=js,python,java,html,css,git,github,swift)
+![Python, Swift, Java, Laravel, HTML, CSS, JavaScript, git, github](https://skillicons.dev/icons?i=python,swift,java,laravel,html,css,js,git,github)
 
 ## 📈 GitHub Stats
 

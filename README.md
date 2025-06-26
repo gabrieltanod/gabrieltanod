@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Gabriel 👋
+I’m a Computer Science student passionate about AI and app development.
+
+## 🔧 Projects
+- [Foozy 🍜](https://github.com/gabrieltanod/Foozy) – A restaurant listing app in SwiftUI
+- [Bebas 🤚](https://github.com/gabrieltanod/Bebas) - An app that provides a simpler way to learn sign language
+
+## 🧠 Skills
+- Languages: Python, Swift, JavaScript
+- Frameworks: SwiftUI, PyTorch, TensorFlow, Laravel
+- Tools: Git, VSCode, Xcode
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/gabriel-tanod-29a23922b/)
+- [Email](mailto:gabrielctanod@gmail.com)

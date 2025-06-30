@@ -38,3 +38,4 @@ I’m a Computer Science student passionate about AI and app development.
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/gabriel-tanod-29a23922b/)
 - [Email](mailto:gabrielctanod@gmail.com)
+- [Instagram](https://instagram.com/gabrieltanod)

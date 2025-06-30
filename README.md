@@ -19,8 +19,8 @@ I’m a Computer Science student passionate about AI and app development.
 
 ## 🔧 Projects
 - [Foozy 🍜](https://github.com/gabrieltanod/Foozy) – A restaurant listing app in SwiftUI
-- [Bebas 🤚](https://github.com/gabrieltanod/Bebas) - An app that provides a simpler way to learn sign language
-- 
+- [Bebas 🤚]([https://github.com/gabrieltanod/Bebas](https://github.com/achrip/bebas)) - An app that provides a simpler way to learn sign language
+  
 ## 🛠️ Languages and Tools
 
 ![Python, Swift, Java, Laravel, HTML, CSS, JavaScript, git, github](https://skillicons.dev/icons?i=python,swift,java,laravel,html,css,js,git,github)

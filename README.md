@@ -25,11 +25,6 @@ I’m a Computer Science student passionate about AI and app development.
 
 ![Python, Swift, Java, Laravel, HTML, CSS, JavaScript, git, github](https://skillicons.dev/icons?i=python,swift,java,laravel,html,css,js,git,github)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltanod&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltanod&layout=compact&theme=radical)
-
 ## 🧠 Skills
 - Languages: Python, Swift, JavaScript
 - Frameworks: SwiftUI, PyTorch, TensorFlow, Laravel

@@ -18,16 +18,17 @@ Here are some ideas to get you started:
 I’m a Computer Science student passionate about AI and app development.
 
 ## 🔧 Projects
-- [Foozy 🍜](https://github.com/gabrieltanod/Foozy) – A restaurant listing app in SwiftUI
-- [Bebas 🤚](https://github.com/achrip/bebas) - An app that provides a simpler way to learn sign language
+- [Coursa(https://github.com/gabrieltanod/Coursa) - A synchronized iOS-WatchOS personalized running planner & tracker
+- [Foozy](https://github.com/gabrieltanod/Foozy) – A restaurant listing app in SwiftUI
+- [Bebas](https://github.com/achrip/bebas) - An app that provides a simpler way to learn sign language
   
 ## 🛠️ Languages and Tools
 
 ![Python, Swift, Java, Laravel, HTML, CSS, JavaScript, git, github](https://skillicons.dev/icons?i=python,swift,java,laravel,html,css,js,git,github)
 
 ## 🧠 Skills
-- Languages: Python, Swift, JavaScript
-- Frameworks: SwiftUI, PyTorch, TensorFlow, Laravel
+- Languages: Python, Swift
+- Frameworks: SwiftUI, PyTorch, TensorFlow
 - Tools: Git, VSCode, Xcode
 
 ## 📫 Contact

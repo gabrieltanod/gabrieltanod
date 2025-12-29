@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I’m a Computer Science student passionate about AI and app development.
 
 ## 🔧 Projects
-- [Coursa(https://github.com/gabrieltanod/Coursa) - A synchronized iOS-WatchOS personalized running planner & tracker
+- [Coursa](https://github.com/gabrieltanod/Coursa) - A synchronized iOS-WatchOS personalized running planner & tracker
 - [Foozy](https://github.com/gabrieltanod/Foozy) – A restaurant listing app in SwiftUI
 - [Bebas](https://github.com/achrip/bebas) - An app that provides a simpler way to learn sign language
   
